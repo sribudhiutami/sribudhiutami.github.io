@@ -22,7 +22,8 @@ author: Sri Budhi Utami
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
-  Publications:
+  Publications: "pubs"
+  Projects:
   Miscellaneous:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
