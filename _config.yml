@@ -85,7 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Personal cademic website
+rss-description: Personal Academic website
 
 ###########################
 # --- General options --- #
@@ -131,14 +131,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#aabdf2"
+navbar-col: "#87898c"
 navbar-text-col: "#404040"
-navbar-border-col: "#aabdf2"
+navbar-border-col: "#87898c"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#aabdf2"
+footer-col: "#87898c"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
