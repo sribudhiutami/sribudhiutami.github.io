@@ -243,7 +243,7 @@ navbar-img: "/assets/img/bgimage.png"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%-d %B, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
@@ -253,7 +253,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Brussels"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
