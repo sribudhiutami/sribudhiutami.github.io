@@ -4,10 +4,9 @@ title: About me
 subtitle: Sri Budhi Utami (Sri, she/her)
 ---
 
-My name is Sri Budhi Utami, or Sri (pronouns: she/her). I am an FNRS postdoctoral fellow at the University of Liège in Belgium. 
+I am an FNRS postdoctoral fellow at the University of Liège in Belgium. I obtained my PhD from Nanyang Technological University, Singapore, my MSc from McGill University, and my BSc from the University of British Columbia.
 
 ### My research
-I am interested in diffusion chronometry, volcano petrology, hazard reduction, and geodynamics. My site volcanoes cover Indonesia (Kelud, Ijen) and Chile (Osorno, Villarrica). My research toolkit involves using a combined textural study and geochemistry to decipher processes that leads to volcanic eruptions.
-
+I am interested in diffusion chronometry, volcano petrology, hazard reduction, and geodynamics. My site volcanoes cover Indonesia (Kelud, Ijen) and Chile (Osorno, Villarrica). My research toolkit involves using a combined petrological and geochemical study to decipher evidence for processes that leads to volcanic eruptions. I also use diffusion chronometry i.e. "mineral clocks" to estimate the timescales from eruption process initiation to eruption, and experiments to constrain magmatic storage conditions by simulating high temperature/pressure. I work primarily on arc volcanoes, but open for collaborations. 
 
 Please do not hesitate to contact me!
