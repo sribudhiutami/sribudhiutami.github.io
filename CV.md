@@ -5,7 +5,7 @@ subtitle: short version
 ---
 
 ### Current Position
-FNRS postdoctoral fellow at the University of Liège in Belgium, October 2022-
+FNRS postdoctoral fellow at the University of Liège in Belgium, October 2022-now
 
 ### Qualifications
 PhD, Asian School of the Environment, Nanyang Technological University, Singapore, 2016-2021
