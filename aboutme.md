@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Sri Budhi Utami (Sri, she/her)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sri Budhi Utami, or Sri (pronouns: she/her). I am an FNRS postdoctoral fellow at the University of Liège in Belgium. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My research
+I am interested in diffusion chronometry, volcano petrology, hazard reduction, and geodynamics. My site volcanoes cover Indonesia (Kelud, Ijen) and Chile (Osorno, Villarrica). My research toolkit involves using a combined textural study and geochemistry to decipher processes that leads to volcanic eruptions.
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Do not hesitate to get in touch!
