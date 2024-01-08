@@ -3,6 +3,7 @@ layout: page
 title: Publications
 subtitle: Published, In Review, In Press
 author: Sri Budhi Utami
+---
 
 ### In Press
 ***Utami, S. B.***, Costa, F., Humaida, H. (in press). The role of magma ascent rates and viscosity in the explosive and dome eruptions (Kelud volcano, Indonesia). Bulletin of Volcanology.
