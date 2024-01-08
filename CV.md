@@ -4,6 +4,9 @@ title: Curriculum Vitae
 subtitle: short version
 ---
 
+### Summary
+Nationality: Indonesian. Pronouns: she/her. Languages: English (fluent), Bahasa Indonesia (mother tongue), Dutch, French (Intermediate).
+
 ### Current Position
 FNRS postdoctoral fellow at the University of Liège in Belgium, October 2022-now
 
