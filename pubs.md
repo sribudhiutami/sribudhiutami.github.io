@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: Published, In Review, In Press
 author: Sri Budhi Utami
 ---
 
