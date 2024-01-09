@@ -5,13 +5,9 @@ subtitle: Published, In Review, In Press
 author: Sri Budhi Utami
 ---
 
-### In Press
+### Peer-reviewed Articles
 ***Utami, S. B.***, Costa, F., Humaida, H. (in press). The role of magma ascent rates and viscosity in the explosive and dome eruptions (Kelud volcano, Indonesia). Bulletin of Volcanology.
 
-### In Review
-
-
-### Published
 ***Utami, S. B.***, Andùjar, J., Costa, F., Scaillet, B., Humaida, H., Carn, S. (2022). Pre-eruptive excess volatiles and their relationship to effusive and explosive eruption styles in semi-plugged volcanoes. Frontiers in Earth Science, 10, 882097.
 
 ***Utami, S. B.***, Costa, F., Lesage, P., Allard, P., Humaida, H. (2021). Fluid fluxing and accumulation drive decadal and short-lived explosive basaltic andesite eruptions preceded by limited volcanic unrest. Journal of Petrology, 62(11), egab086.
@@ -23,5 +19,8 @@ author: Sri Budhi Utami
 Schonwalder‐Angel, D., Albert, H., Tuan, L. N., Phi, N. X., ***Utami, S. B.***, Li, W., ... Costa, F. (2019). PWD: A petrological workspace and database tool. Geochemistry, Geophysics, Geosystems, 20(12), 6095-6105.
 
 Gunawan, H., Caudron, C., Pallister, J., Primulyana, S., Christenson, B., Mccausland, W.,... ***Utami, S.B.***, ... Hendrasto, M. (2017). New insights into Kawah Ijen's volcanic system from the wet volcano workshop experiment. Geological Society, London, Special Publications, 437(1), 35-56.
+
+### Conference Presentations 
+
 
 ---
