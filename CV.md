@@ -32,7 +32,9 @@ Schonwalder‐Angel, D., Albert, H., Tuan, L. N., Phi, N. X., ***Utami, S. B.***
 Gunawan, H., Caudron, C., Pallister, J., Primulyana, S., Christenson, B., Mccausland, W.,... ***Utami, S.B.***, ... Hendrasto, M. (2017). New insights into Kawah Ijen's volcanic system from the wet volcano workshop experiment. Geological Society, London, Special Publications, 437(1), 35-56.
 
 ### Selected Conference Presentations
-Utami, S.B., Costa, F. Andujar, J., Scaillet, B., Humaida, H., Herrin, J. 2021 The Role of an Excess Fluid Phase in Controlling Eruption Styles and Ascent Rates in Basaltic Andesite Magmas. Oral presentation*. AGU Fall Meeting Abstracts Vol. 2021, pp. V21B-06.
+Utami, S.B., vander Auwera, J., Bechon, T., Fugmann, P., Namur, O. 2023. Can we relate diffusion timescales to magmatic flux and crustal permeability? The case of Villarrica and Osorno volcanoes (Chile). Poster Presentation. Goldschmidt 2023 Conference, Lyon, France.
+
+Utami, S.B., Costa, F., Humaida, H. 2023. Quantifying magma ascent rates for explosive and effusive eruptions Oral presentation (Presenter: F. Costa). Goldschmidt 2023 Conference, Lyon, France.
 
 Utami, S.B., Costa, F., Widiwijayanti, C., Humaida, H. 2017. Petrologic data and timescales of magmatic processes leading up to the 1990 Kelud eruptions and its relation to volcanic unrest. Poster at IAVCEI Scientific Assembly, Portland, Oregon, USA.
 
@@ -45,6 +47,6 @@ Utami, S.B., Costa, F. Allard, P., Lesage, P., Andujar, J., Scaillet, B., Humaid
 
 Utami, S.B., Costa, F. Allard, P., Lesage, P., Andujar, J., Scaillet, B., Humaida, H. 2022. Petrological and monitoring insights into the mechanisms of explosive and effusive eruptions at Kelud volcano, Indonesia. Virtual presentation at NASA Interdisciplinary Science Seminar, USA.
 
-Utami, S.B., Costa, F. Allard, P., Lesage, P., Andujar, J., Scaillet, B., Humaida, H. 2022. Petrological and monitoring insights into the mechanisms of explosive and effusive eruptions at Kelud volcano, Indonesia. Virtual presentation at KU Leuven, Belgium.*
+Utami, S.B., Costa, F. Allard, P., Lesage, P., Andujar, J., Scaillet, B., Humaida, H. 2022. Petrological and monitoring insights into the mechanisms of explosive and effusive eruptions at Kelud volcano, Indonesia. Virtual presentation at KU Leuven, Belgium.
 
 Utami, S.B., Costa, F. Lesage, P., Humaida, H. 2018. How is the petrology of the explosive eruptions of Kelud volcano, Indonesia related to its unrest signals? Oral presentation at Universite de Savoie-Mont Blanc, Chambery, France
