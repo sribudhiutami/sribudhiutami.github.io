@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Current and Past
+subtitle: Stay tuned!
 author: Sri Budhi Utami
 ---
 
