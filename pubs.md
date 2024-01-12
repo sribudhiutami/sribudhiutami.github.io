@@ -19,7 +19,4 @@ Schonwalder‐Angel, D., Albert, H., Tuan, L. N., Phi, N. X., ***Utami, S. B.***
 
 Gunawan, H., Caudron, C., Pallister, J., Primulyana, S., Christenson, B., Mccausland, W.,... ***Utami, S.B.***, ... Hendrasto, M. (2017). New insights into Kawah Ijen's volcanic system from the wet volcano workshop experiment. Geological Society, London, Special Publications, 437(1), 35-56.
 
-### Conference Presentations 
-
-
 ---
