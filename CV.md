@@ -17,7 +17,7 @@ MSc, Earth and Planetary Sciences, McGill University, 2013-2015
 BSc (Hons), Geological Sciences, 2009-2013
 
 ### Peer-reviewed Articles
-***Utami, S. B.***, Costa, F., Humaida, H. (in press). The role of magma ascent rates and viscosity in the explosive and dome eruptions (Kelud volcano, Indonesia). Bulletin of Volcanology.
+***Utami, S. B.***, Costa, F., Humaida, H. (2024). The role of magma ascent rates and viscosity in the explosive and dome eruptions (Kelud volcano, Indonesia). Bulletin of Volcanology.
 
 ***Utami, S. B.***, Andùjar, J., Costa, F., Scaillet, B., Humaida, H., Carn, S. (2022). Pre-eruptive excess volatiles and their relationship to effusive and explosive eruption styles in semi-plugged volcanoes. Frontiers in Earth Science, 10, 882097.
 
