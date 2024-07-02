@@ -5,7 +5,7 @@ author: Sri Budhi Utami
 ---
 
 ### Peer-reviewed Articles
-***Utami, S. B.***, Costa, F., Humaida, H. (2024). The role of magma ascent rates and viscosity in the explosive and dome eruptions (Kelud volcano, Indonesia). Bulletin of Volcanology.
+***Utami, S. B.***, Costa, F., Humaida, H. (2024). The role of magma ascent rates and viscosity in the explosive and dome eruptions (Kelud volcano, Indonesia). Bulletin of Volcanology. 86 (2), 12
 
 ***Utami, S. B.***, Andùjar, J., Costa, F., Scaillet, B., Humaida, H., Carn, S. (2022). Pre-eruptive excess volatiles and their relationship to effusive and explosive eruption styles in semi-plugged volcanoes. Frontiers in Earth Science, 10, 882097.
 
